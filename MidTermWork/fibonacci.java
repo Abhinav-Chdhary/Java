@@ -1,9 +1,9 @@
-package TermWork;
+package MidTermWork;
 
 import java.util.Scanner;
 
 public class fibonacci {
-    static int fibo(int a){
+    static long fibo(long a){
         if(a<=2)
             return 1;
         else
@@ -13,8 +13,8 @@ public class fibonacci {
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Enter a number");
-        int n = sc.nextInt();
-        int ans = fibo(n);
+        long n = sc.nextInt();
+        long ans = fibo(n);
         System.out.println("The nth term of series: "+ans);
         sc.close();
     }

@@ -1,0 +1,38 @@
+Write a Java program to demonstrate the usage of the ArrayList 
+class in the Collection framework.
+
+Implement a program to show the difference between HashSet and
+ TreeSet in Java.
+
+Write a Java program to create a LinkedList and perform basic 
+operations like insertion, deletion, and traversal.
+
+Design a GUI application using Swing that includes a JButton,
+ a JLabel, and a JTextField.
+
+Implement a JComboBox in Java Swing that allows the user to
+ select different options.
+
+Develop a program to validate a user input using regular
+ expressions in Java.
+
+Create a Swing application that demonstrates the usage of JTable
+ for displaying tabular data.
+
+Write a Java program to handle mouse events using the Event
+ Delegation Model.
+
+Implement an ActionListener in Java Swing to perform specific
+ actions when a JButton is clicked.
+
+Develop a program that uses Adapter classes to handle keyboard
+ events in Java.
+
+Write a Java program to establish a connection with a database
+ using JDBC.
+
+Implement a program that performs basic database operations
+ (insertion, deletion, and retrieval) using JDBC.
+
+Design a Swing application that allows users to enter SQL
+ statements and executes them using JDBC.

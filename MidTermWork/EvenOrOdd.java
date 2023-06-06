@@ -1,4 +1,4 @@
-package TermWork;
+package MidTermWork;
 
 import java.io.*;
 
