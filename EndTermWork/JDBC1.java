@@ -4,10 +4,10 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
-public class JDBC {
+public class JDBC1 {
     public static void main(String[] args) {
         // Database connection parameters
-        /*String url = "jdbc:mysql://localhost:3306/mydb1"; // database URL
+        String url = "jdbc:mysql://localhost:3306/mydb1"; // database URL
         String username = "your_username"; // database username
         String password = "password"; // database password
 
@@ -40,7 +40,7 @@ public class JDBC {
                     e.printStackTrace();
                 }
             }
-        }*/
+        }
         System.out.println("Connected to the database!");
         System.out.println("Connection closed.");
     }

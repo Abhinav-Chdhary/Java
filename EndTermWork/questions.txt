@@ -1,20 +1,20 @@
 Write a Java program to demonstrate the usage of the ArrayList 
-class in the Collection framework.
+class in the Collection framework.--done
 
 Implement a program to show the difference between HashSet and
- TreeSet in Java.
+ TreeSet in Java.--done
 
 Write a Java program to create a LinkedList and perform basic 
-operations like insertion, deletion, and traversal.
+operations like insertion, deletion, and traversal. --done
 
 Design a GUI application using Swing that includes a JButton,
- a JLabel, and a JTextField.
+ a JLabel, and a JTextField.-----------------done
 
 Implement a JComboBox in Java Swing that allows the user to
- select different options.
+ select different options. -------------done
 
 Develop a program to validate a user input using regular
- expressions in Java.
+ expressions in Java.-------------done
 
 Create a Swing application that demonstrates the usage of JTable
  for displaying tabular data.
@@ -29,10 +29,10 @@ Develop a program that uses Adapter classes to handle keyboard
  events in Java.
 
 Write a Java program to establish a connection with a database
- using JDBC.
+ using JDBC. --done
 
 Implement a program that performs basic database operations
- (insertion, deletion, and retrieval) using JDBC.
+ (insertion, deletion, and retrieval) using JDBC. --done
 
 Design a Swing application that allows users to enter SQL
- statements and executes them using JDBC.
+ statements and executes them using JDBC. --done
